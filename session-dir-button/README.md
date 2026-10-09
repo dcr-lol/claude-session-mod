@@ -17,7 +17,7 @@ such as subagent transcripts or large tool outputs, so it may not exist yet.
 At the prompt of a terminal Claude Code session:
 
 ```
-/plugin install session-dir-button --marketplace <owner>/<repo>
+/plugin install session-dir-button --marketplace dcr-lol/claude-session-mod
 ```
 
 Answer `y` to add the marketplace, then pick a scope.

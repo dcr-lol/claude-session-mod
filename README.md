@@ -9,5 +9,5 @@ Claude Code mods, shared as a plugin marketplace.
 Install one at the prompt of a terminal Claude Code session:
 
 ```
-/plugin install <mod> --marketplace <owner>/<repo>
+/plugin install <mod> --marketplace dcr-lol/claude-session-mod
 ```
