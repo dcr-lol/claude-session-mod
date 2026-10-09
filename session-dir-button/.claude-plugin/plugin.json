@@ -1,0 +1,7 @@
+{
+  "name": "session-dir-button",
+  "version": "0.1.0",
+  "description": "A band above the prompt showing the current session's directory, with a Copy button that puts the path on the clipboard.",
+  "author": { "name": "dylan.curtisreeve" },
+  "types": "./types/index.d.ts"
+}

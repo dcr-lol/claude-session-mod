@@ -1,0 +1,14 @@
+{
+  "name": "claude-mods",
+  "owner": {
+    "name": "dylan.curtisreeve"
+  },
+  "description": "Claude Code mods for the team.",
+  "plugins": [
+    {
+      "name": "session-dir-button",
+      "source": "./session-dir-button",
+      "description": "A band above the prompt showing the current session's directory, with a Copy button."
+    }
+  ]
+}
